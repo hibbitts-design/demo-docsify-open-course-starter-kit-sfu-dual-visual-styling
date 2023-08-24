@@ -8,11 +8,70 @@
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
 - [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
 - [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
+- [![Grades Icon](https://icongr.am/fontawesome/calculator.svg?size=16&color=808080)Grades](https://canvas.sfu.ca/courses/44038/gradebook)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080)Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
-- **Project Info**
-  - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-course-starter-kit/)
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
 
-<form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
-  <input type="submit" value="Use this Template on GitHub" style="cursor: pointer;margin-top:12px;padding:8px;background-color:#FFFFFF;border:1px solid #0374B5;border-radius:.25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form>
+<style>
+  :root {
+
+    --link-color: #CC0633;
+    --link-text-decoration: none;
+    --link-text-decoration--hover: underline;
+
+    --sidebar-name-color: #CC0633;
+    --sidebar-nav-link-color: #757575;
+    --sidebar-nav-link-color--active: #CC0633;
+    --sidebar-nav-link-border-color--active: #CC0633;
+
+    --navbar-root-color: #757575;
+    --navbar-root-color--active: #CC0633;
+
+    --sidebar-nav-pagelink-background:
+        no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px);
+    --sidebar-nav-pagelink-background--active:
+        no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4.25px);
+    --sidebar-nav-pagelink-background--collapse:
+        no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4px);
+    --sidebar-nav-pagelink-background--loaded:
+        no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, #CC0633 2.75px 4.25px, transparent 4.25px);
+
+    --blockquote-border-color: #757b7f;
+
+    --pagination-title-color: #CC0633;
+
+  }
+
+  /* Dark mode colours for use with light + dark themes (uncomment to use) */
+  /*
+  @media (prefers-color-scheme: dark) {
+    :root {
+
+    --link-color: #EA7688!important;
+    --link-text-decoration: none!important;
+    --link-text-decoration--hover: underline!important;
+
+    --sidebar-name-color: #EA7688!important;
+    --sidebar-nav-link-color: #B2B4B4!important;
+    --sidebar-nav-link-color--active: #EA7688!important;
+    --sidebar-nav-link-border-color--active: #EA7688!important;
+
+   --sidebar-nav-pagelink-background:
+        no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px);
+    --sidebar-nav-pagelink-background--active:
+        no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px);
+    --sidebar-nav-pagelink-background--collapse:
+        no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4px);
+    --sidebar-nav-pagelink-background--loaded:
+        no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px);
+
+    --navbar-root-color: #b2b4b4!important;
+    --navbar-root-color--active: #EA7688!important;
+ 
+    --blockquote-border-color: #757B7F!important;
+
+    --pagination-title-color: #EA7688!important;
+    }
+  }
+  */
+
+</style>
