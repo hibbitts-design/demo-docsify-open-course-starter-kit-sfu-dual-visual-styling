@@ -1,7 +1,13 @@
 # Changelog
 
+## [v1.2.10](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.10)
+### 11/27/2023
+
+**Improved:**   
+* Added 'onedrive.live.com' to domains made responsive through the automatic addition of the CSS Markdown class `video-container-16by9`
+
 ## [v1.2.9](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.9)
-### XX/XX/2023
+### 11/15/2023
 
 **Improved:**   
 * ReadMe updated
