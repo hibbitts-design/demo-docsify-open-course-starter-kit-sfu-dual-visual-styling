@@ -1,7 +1,13 @@
 # Changelog
 
-## [v1.2.13](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.13)
+## [v1.2.14](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.14)
 ### XX/XX/2024
+
+**Bugfix:**
+* Remove CSS for use with accordion elements with plain details/summary elements
+
+## [v1.2.13](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.13)
+### 03/04/2024
 
 **New:**
 * Support for the Browser-level image lazy loading (with thanks and appreciation to @sy-records for the source plugin 'docsify-loading')
@@ -10,6 +16,11 @@
 * Add ability to define custom colors for badges (with thanks to @cmadland for the example use of colored badges)
 * Updated ReadMe
 * Updated Editor.css file for improved Markdown previews
+* Use docsify-loading plugin rather than added Javascript
+* Reorganize and update custom assets (as used in Docsify-This)
+
+**Bugfix:**   
+* Include missing docsify-footnotes plugin
 
 ## [v1.2.12](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.12)
 ### 02/09/2024
