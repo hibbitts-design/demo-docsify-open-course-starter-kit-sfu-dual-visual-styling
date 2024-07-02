@@ -1,7 +1,13 @@
 # Changelog
 
+## [v1.2.17](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.17)
+### 0XX/XX/2024
+
+**Improved:**
+* Improve accessibility of Font Awesome icons when used for decorative elements (automatic addition of `aria-hidden` attribute)
+
 ## [v1.2.16](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.16)
-### XX/XX/2024
+### 06/24/2024🏒
 
 **Improved:**
 * Adjusted bottom margin for summary elements
