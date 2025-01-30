@@ -14,6 +14,13 @@
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
 
 <style>
+
+  body .markdown-section {
+      font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.4;
+      font-size: 16px;
+  }
+
   :root {
 
     --link-color: #CC0633;
