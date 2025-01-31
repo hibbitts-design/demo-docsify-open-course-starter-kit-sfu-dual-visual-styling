@@ -19,7 +19,7 @@
 
     --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     --base-line-height: 1.4;
-    --base-font-size: 1.125rem;
+    --base-font-size: 18px;
 
     --link-color: #CC0633;
     --link-text-decoration: none;
