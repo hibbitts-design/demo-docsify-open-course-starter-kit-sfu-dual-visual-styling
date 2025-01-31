@@ -15,13 +15,14 @@
 
 <style>
 
-  body .markdown-section {
-      font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-      line-height: 1.4;
-      font-size: 16px;
-  }
-
   :root {
+
+    --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --base-line-height: 1.4;
+    --base-font-size: 1.125rem;
+
+    --base-line-height: 1.4;
+    --base-font-size: 1.125rem;
 
     --link-color: #CC0633;
     --link-text-decoration: none;
